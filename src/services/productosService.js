@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_URL = 'https://actividad-tienda-con-api.onrender.com/productos';
+const API_URL = import.meta.env.VITE_API_URL;
 
 const mapProductoFromAPI = (producto) => ({
     id: producto._id,
