@@ -1,6 +1,7 @@
 ## Capturas de demostración de funcionamiento de la App de escritorio
 
-**Asistente de instalacin**
+**Asistente de instalación**
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
